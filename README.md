@@ -1,16 +1,20 @@
 ### Hi there 👋
-
-<!--
-**devinthecave/devinthecave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="repository-open-graph-template.png width="200">
+</div>
+</br>
+</br>
+# About ME 💬 :
+### - I'm currently studying and learning web development from Brazil.
+### - Technologies I'm learning :
+- ✨ Html e Css
+- ✨ Javascript
+- ✨ React
+### - Hobbies : 
+- ✨ Watch series
+- ✨ Play video game
+- ✨ Read comics
+- ✨ Watch videos on youtube about pop culture
+- ⚡ Fun fact: I'm very nerdy
+<br>
+*************
