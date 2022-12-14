@@ -1,23 +1,23 @@
 ### Hi there 👋
 <div align="center">
+<img width="400" src="https://user-images.githubusercontent.com/74154933/207686684-a5a53727-c137-4551-ad13-ae789c1ea8a6.jpg">
+
 </div>
 </br>
 </br>
 </br>
-# About ME 💬 :
-### - I'm currently studying 📗 and learning 💡 web development 💻 from Brazil 🇧🇷.
+👩‍💻# About ME 💬 :
+👩‍💻### - I'm currently studying 📗 and learning 💡 web development 💻 from Brazil 🇧🇷.
 </br>
 </br>
 </br>
 
-###🎓 - Technologies I'm learning :
+👩‍💻###🎓 - Technologies I'm learning :
 - ✨ Html e Css</li>
 - ✨ Javascript</li>   
 - ✨ React
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
 
-###🧗 - Hobbies : 
+👩‍💻###🧗 - Hobbies : 
 - 📺 Watch series
 - 🎮 Play video game
 - ✨ Read comics
