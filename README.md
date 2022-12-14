@@ -1,20 +1,29 @@
 ### Hi there 👋
 <div align="center">
-<img src="repository-open-graph-template.png width="200">
 </div>
 </br>
 </br>
+</br>
 # About ME 💬 :
-### - I'm currently studying and learning web development from Brazil.
-### - Technologies I'm learning :
-- ✨ Html e Css
-- ✨ Javascript
+### - I'm currently studying 📗 and learning 💡 web development 💻 from Brazil 🇧🇷.
+</br>
+</br>
+</br>
+
+###🎓 - Technologies I'm learning :
+- ✨ Html e Css</li>
+- ✨ Javascript</li>   
 - ✨ React
-### - Hobbies : 
-- ✨ Watch series
-- ✨ Play video game
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+###🧗 - Hobbies : 
+- 📺 Watch series
+- 🎮 Play video game
 - ✨ Read comics
 - ✨ Watch videos on youtube about pop culture
 - ⚡ Fun fact: I'm very nerdy
-<br>
+</br>
+</br>
+</br>
 *************
